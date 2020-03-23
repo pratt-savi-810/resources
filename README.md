@@ -1,5 +1,7 @@
 # Resources
 
+## Class Software
+
 
 ## Useful Python Libraries
 
@@ -22,12 +24,41 @@ built on top of the Python programming language. - https://pandas.pydata.org/
 
 * **Jupyter Book** - This is a guide and template for hosting your own book using Jupyter Notebooks and Jekyll.- https://github.com/jupyter/jupyter-book 
 
+* **topojson** - Topojson encodes geographic data structures into a shared topology. This repository describes the development of a Python implementation of the TopoJSON format. - https://pypi.org/project/topojson/
+
+### Installing Libraries in Jupyter Notebook
+
+#### pip install:
+
+Example pip install:
+
+```!pip install pandas```
+
+How to install Anaconda:
+
+```!pip install anaconda```
+
+#### Conda install:
+
+Conda install in Jupyter:
+
+```!conda install -c conda-forge ipyleaflet --yes```
+
+In Conda, the user is prompted if they want to install once the packages are collected, hence the `--yes` argument. 
+
+
 
 ## Slack
 
 Join the Slack group: Pratt-SAVI
 
 Using code snippets in Slack:
+
+```
+`For short code snippets use this symbol ` - same key as the tilde ~
+
+```For longer code snipperts use three (3) of these ``` 
+```
 
 ![slack_code](https://raw.githubusercontent.com/pratt-savi-810/images/master/slack_inline_code.png)
 
