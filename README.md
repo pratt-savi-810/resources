@@ -46,7 +46,11 @@ Conda install in Jupyter:
 
 In Conda, the user is prompted if they want to install once the packages are collected, hence the `--yes` argument. 
 
+## Jupyter 
 
+* Jupyter Notebook Shortcuts - Key Commands, etc. - http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
+
+_Note: please add to this list__ 
 
 ## Slack
 
