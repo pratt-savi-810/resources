@@ -2,6 +2,20 @@
 
 ## Class Software
 
+#### GitHub Desktop
+
+Video Instructions: Using GitHub for Pratt SAVI Python for Geospatial
+
+* https://www.youtube.com/watch?v=ijqCFmlcCLM&feature=youtu.be
+[![github_video](https://raw.githubusercontent.com/pratt-savi-810/images/master/github_video.png)](https://www.youtube.com/watch?v=ijqCFmlcCLM&feature=youtu.be)
+
+#### Anaconda
+
+Video Instructions: Installing Anaconda Data Science Platform Python 3.7
+
+* https://youtu.be/kAEF0mZwjN4
+[![anaconda_install](https://raw.githubusercontent.com/pratt-savi-810/images/master/anaconda_install.png)](https://youtu.be/kAEF0mZwjN4)
+
 
 ## Useful Python Libraries
 
