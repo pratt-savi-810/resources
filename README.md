@@ -17,6 +17,11 @@ Video Instructions: Installing Anaconda Data Science Platform Python 3.7
 [![anaconda_install](https://raw.githubusercontent.com/pratt-savi-810/images/master/anaconda_install.png)](https://youtu.be/kAEF0mZwjN4)
 
 
+https://strftime.org/
+
+## Geographic / Spatial Data Science, GIS and Statistics
+* [GDSL - Resource of Teaching Links](https://github.com/GDSL-UL/Teaching_Links/)
+
 ## Useful Python Libraries
 
 * **Pandas** - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
