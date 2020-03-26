@@ -20,7 +20,10 @@ Video Instructions: Installing Anaconda Data Science Platform Python 3.7
 https://strftime.org/
 
 ## Geographic / Spatial Data Science, GIS and Statistics
-* [GDSL - Resource of Teaching Links](https://github.com/GDSL-UL/Teaching_Links/)
+* [Geographic Data Science Lab (GDSL) - Resource of Teaching Links](https://github.com/GDSL-UL/Teaching_Links/)
+  * [GDSL Esri Resource links](https://github.com/GDSL-UL/Teaching_Links/blob/master/ESRI_Links.md) 
+
+* [New School GPIA GIS Advanced GIS](https://github.com/GPIA-GIS/adv-materials-spring2020)
 
 ## Useful Python Libraries
 
