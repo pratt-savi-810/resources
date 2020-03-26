@@ -92,3 +92,25 @@ Using code snippets in Slack:
 
 * [TalkPython](https://talkpython.fm/) 
 * [Partially Derivative](http://partiallyderivative.com/) 
+
+
+## Code Examples
+
+#### Folium 
+* [Bubble map with Folium](https://python-graph-gallery.com/313-bubble-map-with-folium/)
+
+## Geographic Information Systems
+
+### Projection Systems, Spheroids, Ellipsoid Geoid
+
+* [Video: Intro to coordinate systems and UTM projection](https://www.youtube.com/watch?v=HnWNhyxyUHg)
+
+* [Video: Understanding Coordinate Systems and Projections for ArcGIS](https://www.youtube.com/watch?v=-2z_WP7N7to)
+
+* [Video: "Geographic Coordinate Systems" and "Projected Coordinate Systems" in ArcGIS and ArcMap](https://www.youtube.com/watch?v=xPac-SO9oqU)
+
+* [Video: Coordinate System Jargon: geoid, datum, projection](https://www.youtube.com/watch?v=Z41Dt7_R180)
+
+* [Video: Spheroids, Ellipsoid, and Geoid - GIS Fundamentals and Mapping](https://www.youtube.com/watch?v=ThtQwbi8UVo)
+
+* [Video: What are Geodetic Datums?](https://www.youtube.com/watch?v=kXTHaMY3cVk)
