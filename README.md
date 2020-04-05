@@ -17,7 +17,6 @@ Video Instructions: Installing Anaconda Data Science Platform Python 3.7
 [![anaconda_install](https://raw.githubusercontent.com/pratt-savi-810/images/master/anaconda_install.png)](https://youtu.be/kAEF0mZwjN4)
 
 
-https://strftime.org/
 
 ## Geographic / Spatial Data Science, GIS and Statistics
 * [Geographic Data Science Lab (GDSL) - Resource of Teaching Links](https://github.com/GDSL-UL/Teaching_Links/)
@@ -52,6 +51,10 @@ built on top of the Python programming language. - https://pandas.pydata.org/
 
 * **topojson** - Topojson encodes geographic data structures into a shared topology. This repository describes the development of a Python implementation of the TopoJSON format. - https://pypi.org/project/topojson/
 
+### Python Reference Sites
+
+* [https://strftime.org/ - Time Reference](https://strftime.org/) 
+
 ### Installing Libraries in Jupyter Notebook
 
 #### pip install:
@@ -71,6 +74,11 @@ Conda install in Jupyter:
 ```!conda install -c conda-forge ipyleaflet --yes```
 
 In Conda, the user is prompted if they want to install once the packages are collected, hence the `--yes` argument. 
+
+At the commandline:
+
+``` conda install geopandas``` (follow prompts after)
+
 
 ## Jupyter 
 
@@ -120,18 +128,19 @@ Using code snippets in Slack:
 * [Video: What are Geodetic Datums?](https://www.youtube.com/watch?v=kXTHaMY3cVk)
 
 # Podcasts:
-    * https://talkpython.fm/
-        * Python in Geoscience - https://talkpython.fm/episodes/show/163/python-in-geoscience
-        * Coming into Python from another Industry (part 1) - https://talkpython.fm/episodes/show/173/coming-into-python-from-another-industry-part-1
-        * Coming into Python from another Industry (part 2) - https://talkpython.fm/episodes/show/174/coming-into-python-from-another-industry-part-2
-        * Python in Climate Science - https://talkpython.fm/episodes/show/134/python-in-climate-science
+* Talk Python - https://talkpython.fm/
+	* Python in Geoscience - https://talkpython.fm/episodes/show/163/python-in-geoscience
+* Coming into Python from another Industry (part 1) - https://talkpython.fm/episodes/show/173/coming-into-python-from-another-industry-part-1
+* Coming into Python from another Industry (part 2) - https://talkpython.fm/episodes/show/174/coming-into-python-from-another-industry-part-2
+* Python in Climate Science - https://talkpython.fm/episodes/show/134/python-in-climate-science
 
 # Websites:
-    * https://www.python.org/
-    * https://stackoverflow.com/questions/tagged/python
-    * https://www.codecademy.com/learn/learn-python
-    * https://chrisalbon.com/#Python
-    * http://joelmccune.com/
+
+* https://www.python.org/
+* https://stackoverflow.com/questions/tagged/python
+* https://www.codecademy.com/learn/learn-python
+* https://chrisalbon.com/#Python
+* http://joelmccune.com/
 
 
 # Books:
