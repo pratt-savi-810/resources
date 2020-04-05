@@ -25,6 +25,10 @@ https://strftime.org/
 
 * [New School GPIA GIS Advanced GIS](https://github.com/GPIA-GIS/adv-materials-spring2020)
 
+* [GeoHackWeek - Workshop on Geospatial Data Science -
+University of Washington - EScience Institute](https://geohackweek.github.io/)
+  * [GitHub - Google Earth Engine, Raster, etc.](https://github.com/geohackweek)
+
 ## Useful Python Libraries
 
 * **Pandas** - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
