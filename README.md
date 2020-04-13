@@ -55,6 +55,10 @@ built on top of the Python programming language. - https://pandas.pydata.org/
 
 * [https://strftime.org/ - Time Reference](https://strftime.org/) 
 
+## Python in QGIS
+
+* https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/
+
 ### Installing Libraries in Jupyter Notebook
 
 #### pip install:
